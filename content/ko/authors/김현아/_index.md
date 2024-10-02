@@ -18,7 +18,7 @@ role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: '<span style="color: initial; transition: color 0.3s;">현아의 개발연습</span>'
+  - name: 현아의 개발연습
     url: 'https://hyuunaaa.github.io/'
 
 
