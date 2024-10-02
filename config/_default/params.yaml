@@ -16,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: '경태의 개발연습'
-    description: '전북대학교 컴퓨터공학부 강경태의 두번째 자기소개 사이트입니다.'
+    description: '전북대학교 컴퓨터공학부 김현아의 두번째 자기소개 사이트입니다.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -44,8 +44,8 @@ header:
       filename: "logo.png"  # Ensure the file exists in `assets/media/`
     button:
       enable: true
-      text: "강경태"
-      url: "https://gyeongtaekang.github.io/"
+      text: "김현아"
+      url: "https://hyuunaaa.github.io/"
 
 # Site footer settings
 footer:
@@ -75,7 +75,7 @@ features:
   privacy_pack:
     enable: false  # Privacy pack
   repository:
-    url: 'https://github.com/gyeongtaekang/gyeongtaekang.github.io'
+    url: 'https://github.com/hyuunaaa/hyuunaaa.github.io/'
     content_dir: content
     branch: main
   avatar:
@@ -119,11 +119,11 @@ publications:
   citation_style: apa
 
 # Personal information
-name: 강경태
+name: 김현아
 role: 학생
 organization: 전북대학교 컴퓨터공학부
-organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
-email: 'namwon420@naver.com'
+organization_url: 'https://https://it.jbnu.ac.kr/it/index.do'
+email: 'test@naver.com'
 
 # ogImage setting (Optional)
 ogImage: "assets/media/logo.png"  # Ensure the image exists at this path

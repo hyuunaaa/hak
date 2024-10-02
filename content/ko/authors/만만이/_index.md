@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 만만이
+title: 기백이
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,17 +8,17 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 만만이
+  - 기백이
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 아침 알람담당
+role: 집지키기
 
 # Organizations/Affiliations
 organizations:
-  - name: 전국 닭연맹 대표
+  - name: 집돌이
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
@@ -26,10 +26,7 @@ avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
 # Short bio (displayed in user profile at end of posts)
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  때는 2014년.. 강경태는 학교 귀가후 집으로 가는 데 만만이가 화난 상태로 기다리고 있었다...  
-  집에 들어가려는 나와 그걸 막고 나를 보며 깃을 세우고 있는 만만이...  
-  어쩔 수 없이 싸우지 않고 그냥 만만이에게 쫓기며 집 안으로 안전하게 들어갔다  
-  (사실 만만이를 피해 도망간 건 비밀이다.)
+  2024.2월생 ...
 
 # interests:
 #   - 

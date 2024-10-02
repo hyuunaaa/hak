@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-10-02
 
 type: landing
 
@@ -9,11 +9,11 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부 20학번 강경태 </span> <br>
-      email: namwon420@naver.com
-      phone: 010-4672-1420
+        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부 22학번 김현아 </span> <br>
+      email: cloe@naver.com
+      phone: 010-xxxx-xxxx
       address:
-        street: 전북대학교 공과대학 7호관 533호
+        street: 전북대학교
         city: 전주시
         region: 전라북도
         postcode: '54896'
