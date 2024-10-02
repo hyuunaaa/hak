@@ -25,7 +25,7 @@ sections:
       title: About me
       text: |- 
         <span class="justified-text" style="color: gray;">
-        안녕하세요! 저는 전북대학교 컴퓨터공학부 학생으로, 인공지능(AI)과 데이터 분석에 관심이 많습니다. 원래 의류학을 전공하다가 새로운 도전을 위해 컴퓨터공학으로 전과하였고, 그 이후 다양한 프로젝트와 공모전에 참여하며 성장해 왔습니다. 현재는 의료 AI 분야에서 활발하게 활동하며 기술과 혁신을 통해 사회에 긍정적인 변화를 가져오고자 노력하고 있습니다. 끊임없이 배우고 도전하며, 서울대 의료인공지능 연구실로 진학하는것이 저의 목표입니다.
+        저는...소개합니다.
         </span>
 
   - block: features
@@ -62,8 +62,8 @@ sections:
 
   - block: features
     content:
-      title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
-      text: "<br><span style=\"font-size:125%\">강경태의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
+      title: "<span style=\"font-size:70%\">김현아의 포트폴리오 사이트</span>"
+      text: "<br><span style=\"font-size:125%\">김현아의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
   - block: slider
     content:
