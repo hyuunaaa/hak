@@ -1,48 +1,60 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [강경태의 Hugo Theme를 이용한 사이트 만들기](https://gyeongtaekang.github.io/)
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## 📄 메뉴 소개
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+본 사이트는 총 다섯 개의 주요 메뉴로 구성되어 있으며, 각각은 다음과 같은 내용들을 포함하고 있습니다:
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+### 1. 🏠 Introduction
+개인 소개와 함께 동물 친구에 대한 이야기를 다룹니다.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+- **My Profile**: 사이트의 주인에 대한 소개 페이지입니다. 주요 이력, 자기소개, 학력 및 관심 분야를 볼 수 있습니다.
+- **My Pet**: 반려동물에 관한 소개 페이지입니다. 함께 지내는 동물 친구의 사진과 성격, 특별한 이야기 등을 볼 수 있습니다.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+### 2. 🎯 Passion & Work
+관심사와 진행했던 프로젝트들을 담고 있습니다.
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+- **My Interests**: 개인의 취미와 관심사를 소개합니다. 좋아하는 활동, 취미, 연구 분야 등을 한눈에 볼 수 있습니다.
+- **My Projects**: 진행해 온 프로젝트에 대한 정보를 제공합니다. 웹 개발, 앱 개발, 외주 프로젝트 등 다양한 작업물을 볼 수 있습니다.
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### 3. 🎓 University Life
+대학 생활과 관련된 성과와 활동을 소개하는 메뉴입니다.
 
-## We ask you, humbly, to support this open source movement
+- **Achievements**: 대학에서 받은 수상 경력과 성과를 정리하여 보여줍니다. 공모전 수상, 학업 성과 등 개인적인 성취를 확인할 수 있습니다.
+- **Activities**: 동아리 활동, 봉사 활동, 기타 과외 활동 등 대학 생활에서의 경험을 소개하는 페이지입니다.
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+### 4. 📢 Updates
+알림과 공지, 이벤트 소식을 전달하는 메뉴입니다.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+- **Notifications**: 최신 알림과 공지사항을 확인할 수 있습니다. 개인적인 소식이나 사이트 업데이트 사항 등이 포함됩니다.
+- **News**: 각종 뉴스 및 업데이트 사항을 볼 수 있습니다. 새로운 프로젝트나 관심 분야의 소식을 주기적으로 업데이트합니다.
+- **Events**: 사이트에서 진행하는 이벤트 및 일정과 관련된 정보입니다. 예정된 행사나 이벤트 참여에 대한 내용을 확인할 수 있습니다.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### 5. 📋 Info
+사이트의 정보 및 소통 창구로 활용되는 메뉴입니다.
 
-## Demo credits
+- **About Me**: 사이트와 운영자에 대한 자세한 소개입니다. 이 사이트를 통해 다루는 내용과 목적, 운영자의 배경 등을 소개합니다.
+- **Contact Me**: 연락처와 문의 방법을 제공하는 페이지입니다. 개인적으로 궁금한 점이나 문의 사항이 있다면 이 메뉴를 통해 쉽게 연락할 수 있습니다.
 
-Please replace the demo images with your own.
+---
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+## 💻 사이트들
+
+아래는 처음부터 끝까지 다 만들거나 일부 수정했던 사이트들입니다:
+
+### 1. **경태의 개발연습**
+자기소개 및 개발 포트폴리오를 공유하기 위한 개인 사이트입니다. 컴퓨터공학과 학생으로서 배운 것과 개발한 프로젝트들을 체계적으로 정리하고, 스스로의 성장을 돌아볼 수 있는 공간을 제공합니다. 다양한 프로젝트 경험을 공유하고, 취미와 관심사를 소개하여 보다 개인적인 느낌의 홈페이지를 구현하였습니다.  
+🔗 [경태의 개발연습 바로가기](https://gyeongtaekang.netlify.app/)
+
+### 2. **MBTI 검사 사이트**
+심리 테스트와 MBTI 성격 유형 검사를 제공하는 사이트입니다. 사용자가 재미있게 심리 검사를 해볼 수 있도록 구성되었으며, 처음에는 구글 애드센스를 통한 광고 수입을 위해 개발되었습니다. 현재는 외주를 통해 지속적으로 업데이트 및 수익 창출이 이뤄지고 있습니다.  
+🔗 [MBTI 검사 사이트 바로가기](https://supermbti.netlify.app/)
+
+### 3. **영어 학습 사이트**
+사용자들이 영어를 효과적으로 학습할 수 있도록 구성된 사이트입니다. 이미 개발되어 있던 사이트의 기존 구조를 유지하며 기능과 디자인을 재개발하였습니다. 학습 콘텐츠, 단어장 및 퀴즈 등 다양한 학습 기능이 포함되어 있습니다.  
+🔗 [영어 학습 사이트 바로가기](https://abceggs.co.kr/)
+
+### 4. **쇼핑몰 사이트**
+전자상거래 기능을 제공하는 쇼핑몰 사이트로, 일부 기능 수정 및 신규 기능을 추가 개발했습니다. 상품 상세 페이지와 결제 기능 등을 중심으로 사용자 경험을 향상시켰으며, 사용자가 쉽게 제품을 검색하고 구매할 수 있도록 구성하였습니다.  
+🔗 [쇼핑몰 사이트 바로가기](https://www.shospot.kr/)
